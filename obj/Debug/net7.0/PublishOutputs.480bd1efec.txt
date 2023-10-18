@@ -1,0 +1,7 @@
+D:\NetCoreProjects\azure-app-trav\publish\azure-app-trav.exe
+D:\NetCoreProjects\azure-app-trav\publish\appsettings.Development.json
+D:\NetCoreProjects\azure-app-trav\publish\appsettings.json
+D:\NetCoreProjects\azure-app-trav\publish\azure-app-trav.dll
+D:\NetCoreProjects\azure-app-trav\publish\azure-app-trav.deps.json
+D:\NetCoreProjects\azure-app-trav\publish\azure-app-trav.runtimeconfig.json
+D:\NetCoreProjects\azure-app-trav\publish\azure-app-trav.pdb
